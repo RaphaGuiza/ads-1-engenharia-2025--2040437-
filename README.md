@@ -1,4 +1,4 @@
-# ads-1-engenharia-2025--2040437-
+# ads-1-engenharia-2025-2040437
 
 # 📚 Diário de Engenharia de Software - Raphael Pereira Guizardi da Silva
 
