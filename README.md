@@ -1,6 +1,6 @@
 # ads-1-engenharia-2025--2040437-
 
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - Raphael Pereira Guizardi da Silva
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 (Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
