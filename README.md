@@ -88,13 +88,19 @@ Tanto o GitHub quanto o GitLab são plataformas populares que fornecem serviços
 ### 🎮 Jira / Trello  
 Jira e Trello são ferramentas de gerenciamento de projetos e tarefas. O Jira é mais indicado para equipes de desenvolvimento de software:
 
-1-Ferramenta de gerenciamento de projetos e rastreamento de itens .
+1-Ferramenta de gerenciamento de projetos e rastreamento de itens.
+
 2-Desenvolvida pela Atlassian.
+
 3-Ideal para equipes de software que precisam executar e oferecer suporte a software. 
+
 4-Abrangente e complexa, com vários quadros que podem ser usados para diferentes partes de um fluxo de trabalho.
 
 Trello é mais adequado para empresas de pequeno e médio porte: 
 1-Ferramenta de gerenciamento de tarefas e projeto.
+
 2-Ideal para coletar e compartilhar ideias, listas e tarefas. 
+
 3-Fácil de usar. 
+
 4-Permite organizar informações importantes em cartões, com datas de entrega, anexos de arquivos e marcação de tarefas como "Feitas".
