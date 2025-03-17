@@ -51,17 +51,50 @@ Um sprint é um período curto e fixo em que uma equipe SCRUM trabalha para conc
 Eles facilitam o gerenciamento dos projetos, permitem que as equipes lancem trabalhos de alta qualidade mais rápido e com mais frequência, além de conferir a elas mais flexibilidade de adaptação às mudanças
 
 ### 💬 Cerimônias  
-(Descreva as principais cerimônias do Scrum.)
+As cerimônias do Scrum emergem como pilares fundamentais para a estruturação das sprints e da comunicação das equipes. O Scrum em seu princípio usa 5 reuniões que seriam as cerimônias:
+
+1. Refinamento do backlog do produto: que é a etapa onde se analisa as possíveis histórias de usuário para os próximos Sprints, assim detalhando os elementos do backlog e do produto indicando
+2. Reunião de planejamento do sprint: Tem como objetivo selecionar os elementos certos do backlog para o sprint.
+3. Reuniões diárias do Scrum: São reuniões em que você avalia o progresso do dia anterior e lista as tarefas do dia, bem como os possíveis obstáculos.
+4. Revisão do sprint: Onde seus clientes e outras partes interessadas realmente testam o incremento do produto.
+5. Retrospectiva do sprint: A retrospectiva do sprint é o momento em que a equipe do Scrum faz uma retrospectiva do sprint e avalia como tudo ocorreu.
 
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
+Sua metodologia prevê o fluxo que vai ser usado, seu objetivo é identificar os possíveis erros ou gargalosp no desenvolvimento e corrigir para que assim haja uma fluidez nas atividades da empresa.
+Com relação às etapas de implementação, há 3 ações essenciais que você deve levar em conta. Confira abaixo:
+1. Instruir a equipe O primeiro passo para implementar a metodologia ágil é preparar a equipe para essa nova modalidade de fluxo.
+Invista no treinamento e na capacitação dos funcionários para que todos compreendam os benefícios da metodologia.
+2. Mapear as demandas Depois, é preciso mapear os processos internos e verificar quem está com qual responsabilidade.
+3. Defina as prioridades Na parte superior do quadro, inclua atividades de maneira hierárquica do que ter mais prioridade para o que tem menos. A partir daí, mantenha sempre o quadro atualizado e busque apoio tecnológico para a gestão.
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+- Comunicação: A comunicação é vital no Extreme Programming. Ela assegura que todos na equipe compartilhem conhecimento, compreendam os requisitos e as expectativas do cliente e colaborem efetivamente.
+
+- Simplicidade: Ela incentiva desenvolvedores a implementarem a solução mais simples que possa funcionar, evitando a complexidade desnecessária. Isso facilita mudanças futura e reduz o risco de erros.
+
+- Feedback: o feedback é um pilar do XP, tanto internamente entre os membros da equipe quanto externamente com os clientes. Testes constantes e interações frequentes permitem que a equipe refine e aprimore o software continuamente, garantindo que o produto final atenda às necessidades do usuário.
+
+- Coragem: Significa ter a ousadia e se arriscar, fazer mudanças necessárias no código e defender boas práticas, mesmo quando isso é difícil.
+
+- Respeito: O respeito é essencial para um ambiente de equipe saudável. Cada contribuição é valorizada, e os membros da equipe confiam e apoiam uns aos outros. Respeitar colegas e clientes conduz a um trabalho colaborativo e a um produto final que respeita as necessidades do usuário.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+Tanto o GitHub quanto o GitLab são plataformas populares que fornecem serviços de hospedagem de repositórios para o Git. 
+- Para projetos de código aberto e colaboração: O GitHub é a escolha preferencial devido à sua ampla comunidade e ecossistema mais amplo.
+
+- Para projetos corporativos e conformidade: O GitLab é uma opção mais adequada devido aos seus recursos de segurança mais abrangentes e planos pagos mais flexiveis.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+Jira e Trello são ferramentas de gerenciamento de projetos e tarefas. O Jira é mais indicado para equipes de desenvolvimento de software:
+
+1-Ferramenta de gerenciamento de projetos e rastreamento de itens .
+2-Desenvolvida pela Atlassian.
+3-Ideal para equipes de software que precisam executar e oferecer suporte a software. 
+4-Abrangente e complexa, com vários quadros que podem ser usados para diferentes partes de um fluxo de trabalho.
+
+Trello é mais adequado para empresas de pequeno e médio porte: 
+1-Ferramenta de gerenciamento de tarefas e projeto.
+2-Ideal para coletar e compartilhar ideias, listas e tarefas. 
+3-Fácil de usar. 
+4-Permite organizar informações importantes em cartões, com datas de entrega, anexos de arquivos e marcação de tarefas como "Feitas".
