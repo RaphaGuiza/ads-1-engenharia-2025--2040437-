@@ -96,7 +96,8 @@ Jira e Trello são ferramentas de gerenciamento de projetos e tarefas. O Jira é
 
 4-Abrangente e complexa, com vários quadros que podem ser usados para diferentes partes de um fluxo de trabalho.
 
-Trello é mais adequado para empresas de pequeno e médio porte: 
+Trello é mais adequado para empresas de pequeno e médio porte:
+
 1-Ferramenta de gerenciamento de tarefas e projeto.
 
 2-Ideal para coletar e compartilhar ideias, listas e tarefas. 
